@@ -1,16 +1,13 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Web and Mobile development
+- 🌱 I’m currently studying Computer Science
+- 📷 I’m a free time photographer and videomaker
+- 🎹 I love playing the piano!
 
-<!--
-**EPMatt/epmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can reach out to me here! 📫
+<br/>
+<a href="https://linkedin.com/in/epmatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="epmatt" height="30" width="40" /></a>
+<a href="https://facebook.com/epmattofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="epmattofficial" height="30" width="40" /></a>
+<a href="https://www.instagram.com/epmatt_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="epmatt_" height="30" width="40" /></a>
