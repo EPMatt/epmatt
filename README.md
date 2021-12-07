@@ -8,6 +8,7 @@
 
 ### You can reach out to me here! 📫
 <br/>
-<a href="https://linkedin.com/in/epmatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="epmatt" height="30" width="40" /></a>
-<a href="https://facebook.com/epmattofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="epmattofficial" height="30" width="40" /></a>
-<a href="https://www.instagram.com/epmatt_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="epmatt_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/epmatt" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin" /></a>&nbsp
+<a href="https://facebook.com/epmattofficial" target="blank"><img src="https://img.shields.io/badge/-Facebook-e8f2ff?style=flat&logo=facebook" /></a>&nbsp
+<a href="https://www.instagram.com/epmattkeys" target="blank"><img src="https://img.shields.io/badge/-Instagram-251861?style=flat&logo=instagram" /></a>&nbsp
+<a href="https://community.home-assistant.io/u/epmatt" target="blank"><img src="https://img.shields.io/badge/-Home Assistant Forums-e0f7ff?style=flat&logo=homeassistant" /></a>
