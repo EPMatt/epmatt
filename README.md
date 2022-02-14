@@ -12,14 +12,6 @@ I'm a Software Developer and Computer Science student based in Venice, Italy. �
 
 <br/>
 
-## Support me and my work 🤝
-
-You can show your support by as little as **starring one of my open source projects** you can find here. Such a simple and no-cost action will help me understand how many people I'm helping with my work, and motivate me to do even more for the open source community. ⭐
- 
-Moreover, if you find my work valuable and want to show your appreciation, you can support me by **making a small donation**. Any contribution will be deeply appreciated and will concretely help to cover costs and continue the development of the projects I'm maintaining. 🚀 
-
-<a href="https://www.buymeacoffee.com/epmatt"><img width="150" alt="yellow-button" src="https://user-images.githubusercontent.com/30753195/133942263-5fef0166-4ab5-4529-b931-37b5d14f02bf.png"></a>
-
 ## Let's get in touch! 📫
 
 If you have any questions feel free to contact me here.
@@ -28,3 +20,10 @@ If you have any questions feel free to contact me here.
 <a href="https://facebook.com/epmattofficial" target="blank"><img src="https://img.shields.io/badge/-Facebook-e8f2ff?style=flat&logo=facebook" /></a> 
 <a href="https://www.instagram.com/epmattkeys" target="blank"><img src="https://img.shields.io/badge/-Instagram-251861?style=flat&logo=instagram" /></a> 
 <a href="https://community.home-assistant.io/u/epmatt" target="blank"><img src="https://img.shields.io/badge/-Home Assistant Forums-e0f7ff?style=flat&logo=homeassistant" /></a>
+
+## Support me and my work 🤝
+
+You can show your support by as little as **starring one of my open source projects**. ⭐
+Moreover, if you really find my work valuable and want to show your appreciation, you can support me by **making a small donation** here. 🚀 
+
+<a href="https://www.buymeacoffee.com/epmatt"><img width="150" alt="yellow-button" src="https://user-images.githubusercontent.com/30753195/133942263-5fef0166-4ab5-4529-b931-37b5d14f02bf.png"></a>
