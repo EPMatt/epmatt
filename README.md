@@ -21,6 +21,8 @@ If you have any questions feel free to contact me here.
 <a href="https://www.instagram.com/epmattkeys" target="blank"><img src="https://img.shields.io/badge/-Instagram-251861?style=flat&logo=instagram" /></a> 
 <a href="https://community.home-assistant.io/u/epmatt" target="blank"><img src="https://img.shields.io/badge/-Home Assistant Forums-e0f7ff?style=flat&logo=homeassistant" /></a>
 
+<br/>
+
 ## Support me and my work 🤝
 
 You can show your support by as little as **starring one of my open source projects**. ⭐
