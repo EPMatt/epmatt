@@ -1,8 +1,8 @@
 ## Hi there, I'm Matteo 👋
 
-I'm a Software Developer and Computer Science student based in Venice, Italy. 🇮🇹
+I'm a Software Engineer based in Venice (Italy 🇮🇹), with a strong interest in cybersecurity, web development and entrepreneurship.
 
-- 📚 I’m studying for a **BSC in Computer Science** at Ca' Foscari University of Venice.
+- 📚 I’ve completed a **B.Sc. in Informatics** at Ca' Foscari University of Venice.
 - 🔭 I’m mainly working on full stack web development with modern tools such as **React** and **TypeScript**.
 - 🌱 I love to help and share my knowledge and expertise with others. I enjoy working on Open Source and helping people getting the most from my contributions.
 - 🏠 My activity is usually focused but not limited to [Home Assistant](https://home-assistant.io/) related projects. I'm the **founder and maintainer of [Awesome HA Blueprints](https://github.com/EPMatt/awesome-ha-blueprints)**.
